@@ -8,6 +8,6 @@ Circuit:
 
 Sensor:Joystick KY-023
 
-![image](https://user-images.githubusercontent.com/93759057/141615162-4ce61add-e14a-47b7-ab73-05ec45497633.png)
+![image](https://user-images.githubusercontent.com/93759057/141615173-24413cb9-ba63-4622-8ea1-66cfff2332a8.png)
 
 
